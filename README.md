@@ -220,7 +220,9 @@
 ## 📈 Contribution Graph
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayurS23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a5b4fc&line=6366f1&point=58a6ff&area=true&area_color=6366f1&border_radius=12" width="95%"/>
+
 </div>
 
 ---
@@ -244,24 +246,28 @@
 
 </div>
 
-### 🤝 Let's Connect
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="78%"/>
+
+<br/><br/>
+
+## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayur--s)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayuur203@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayurS23)
-[![Live Demo](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mayurs23.github.io/pathfinding-visualizer/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mayurs23.github.io/pathfinding-visualizer/)
 
 <br/>
-
-![](https://img.shields.io/badge/Software%20Developer-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF)
-![](https://img.shields.io/badge/AI%20%2F%20ML%20Engineer-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![](https://img.shields.io/badge/Testing%20Advocate-0d1117?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
-
-<br/><br/>
 
 **⭐ If my work helped you, consider starring a repo — it means a lot! ⭐**
 
-<br/>
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:2d1b69,70:1a1b4b,100:0d1117&height=140&section=footer&animation=twinkling"/>
 
