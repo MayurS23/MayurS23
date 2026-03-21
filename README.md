@@ -227,21 +227,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
+## 🎯 Quick Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MayurS23&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=10"/>
+
+![](https://img.shields.io/badge/Repos-6%20Production-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/Tests%20Written-142%2B-1D9E75?style=for-the-badge&logo=pytest&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/Live%20Deployments-2-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/Tech%20Domains-5%2B-D97757?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117)
+
+<br/>
+
+![](https://img.shields.io/badge/Software%20Developer-Core-58A6FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/AI%20%2F%20ML-Passionate-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/Testing-Disciplined-1D9E75?style=for-the-badge&logo=pytest&logoColor=white&labelColor=0d1117)
+
 </div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="78%"/>
-
-<br/><br/>
 
 ### 🤝 Let's Connect
 
