@@ -1,32 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Mayur%20S&fontSize=80&fontColor=58A6FF&animation=fadeIn&fontAlignY=45&stroke=58A6FF&strokeWidth=2&desc=Software%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Systems%20Builder&descSize=18&descColor=8b949e&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Mayur%20S&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Systems%20Builder&descAlignY=58&descSize=18&descColor=ffffffcc"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=🔧+Building+Distributed+Systems+from+Scratch;🤖+RAG+%7C+LLMs+%7C+Vector+Search+%7C+Claude+AI;⚡+C%2B%2B+compiled+to+WebAssembly+%7C+Near-Native+Speed;🧪+Every+project+ships+with+50–142+tests.+Always.;🚀+2+Live+Deployments+%7C+6+Production+Repos;📍+Mysuru%2C+Karnataka%2C+India+🇮🇳" alt="Typing SVG"/>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/mayur--s)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:mayuur203@gmail.com)
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-00C896?style=for-the-badge&logoColor=white)](https://mayurs23.github.io/pathfinding-visualizer/)
-[![Profile Views](https://komarev.com/ghpvc/?username=MayurS23&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/MayurS23)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=🔧+Building+Distributed+Systems+from+Scratch;🤖+RAG+%7C+LLMs+%7C+Vector+Search+%7C+Claude+AI;⚡+C%2B%2B+%E2%86%92+WebAssembly+%E2%86%92+Native+Browser+Speed;🧪+Every+project+ships+with+50%E2%80%93142+tests;🚀+2+Live+Deployments+%7C+6+Production+Repos;📍+Mysuru%2C+Karnataka%2C+India+🇮🇳" alt="Typing SVG"/>
 
 <br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayur--s)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayuur203@gmail.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C896?style=for-the-badge&logoColor=white)](https://mayurs23.github.io/pathfinding-visualizer/)
+[![Profile Views](https://komarev.com/ghpvc/?username=MayurS23&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/MayurS23)
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
-<h2 align="center">🧑‍💻 About Me</h2>
+## 🧑‍💻 About Me
 
-<br/>
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="370"/>
 
 ```python
 class Mayur:
@@ -45,26 +36,28 @@ class Mayur:
     stack = {
         "languages" : ["Python","C++","JS","TS"],
         "backend"   : ["FastAPI","Redis","PostgreSQL"],
-        "ai_ml"     : ["Claude AI","TensorFlow","FAISS",
-                       "ChromaDB","XGBoost"],
-        "infra"     : ["Docker","WebAssembly","GitHub Actions"],
-        "testing"   : ["pytest — 50 to 142 per project ✅"],
+        "ai_ml"     : ["Claude AI","TensorFlow",
+                       "FAISS","ChromaDB","XGBoost"],
+        "infra"     : ["Docker","WebAssembly",
+                       "GitHub Actions"],
+        "testing"   : ["pytest — 50–142 per project ✅"],
     }
 
     def current_mission(self):
-        return "Build things that scale, break gracefully,"
-               " and ship with confidence 🚀"
+        return "Build things that scale, break"
+               " gracefully & ship with confidence 🚀"
 
     def fun_fact(self):
-        return "Built a search engine + an AI IDS from"
-               " scratch — because why not? 🤷"
+        return "Built a search engine + AI IDS"
+               " from scratch — because why not? 🤷"
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- SNAKE -->
+## 🐍 Contribution Snake
+
 <div align="center">
 
 <picture>
@@ -77,21 +70,25 @@ class Mayur:
 
 ---
 
-<!-- TECH STACK -->
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<br/>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💬 Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts&theme=dark&perline=10"/>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts&theme=dark"/>
 
-### ⚙️ Backend & Infrastructure
-<img src="https://skillicons.dev/icons?i=fastapi,redis,postgres,docker,githubactions,linux&theme=dark&perline=10"/>
+<br/>
 
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=10"/>
+**Backend & Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,redis,postgres,docker,githubactions,linux&theme=dark"/>
+
+<br/>
+
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
 
 <br/>
 
@@ -101,27 +98,25 @@ class Mayur:
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=10"/>
+<br/>
+
+**Testing & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 </div>
-
-<br/>
 
 ---
 
-<!-- PROJECTS -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<br/>
+## 🚀 Featured Projects
 
 <div align="center">
 
-### ━━━━━━━━━━━━━━━━━━━━━━━━ 🤖 AI & Machine Learning ━━━━━━━━━━━━━━━━━━━━━━━━
+### 🤖 AI & Machine Learning
 
 </div>
-
-<br/>
 
 <table>
 <tr>
@@ -129,42 +124,36 @@ class Mayur:
 
 <div align="center">
 <a href="https://github.com/MayurS23/ai-codebase-intelligence">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurS23&repo=ai-codebase-intelligence&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurS23&repo=ai-codebase-intelligence&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12"/>
 </a>
 </div>
 
-<br/>
+> 🧠 Talk to any GitHub repo like a senior engineer
 
-> 🧠 **Talk to any GitHub repo like a senior engineer**
-
-Combines **RAG + AST parsing + call graph analysis + Claude AI** to answer natural language questions about any codebase with exact file & line references.
-
-**⚡ Highlights:**
-- 🔗 Traces execution flows from any function entry
-- 🌐 12 programming languages supported
+- 🔗 RAG + AST parsing + Call graphs + **Claude AI**
+- 🌐 Supports **12 programming languages**
 - ✅ **50 tests** across 8 modules — all passing
 - 🐳 One-command Docker deployment
+
+`Python` `FastAPI` `ChromaDB` `Claude AI` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 <a href="https://github.com/MayurS23/Cyberfluxmain">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurS23&repo=Cyberfluxmain&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurS23&repo=Cyberfluxmain&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12"/>
 </a>
 </div>
 
-<br/>
+> 🛡️ Hybrid ML+DL IDS · Live SOC Dashboard · 🟢 [Live](https://cyberflux-ids.emergent.host)
 
-> 🛡️ **Hybrid ML+DL intrusion detection · Live SOC dashboard**
-
-**6-model ensemble** (LSTM · CNN · Autoencoder · XGBoost · Random Forest · GAN) with WebSocket real-time alert streaming and React SOC dashboard.
-
-**⚡ Highlights:**
-- 🤖 Ensemble weighted aggregation — fewer false positives
-- 📊 Trained on NSL-KDD benchmark dataset
-- 🌐 **Deployed live** at cyberflux-ids.emergent.host
+- 🤖 **6-model ensemble**: LSTM · CNN · AE · XGBoost · RF · GAN
 - 📡 WebSocket real-time alert streaming
+- 📊 Trained on **NSL-KDD** benchmark dataset
+- 🌐 Deployed at cyberflux-ids.emergent.host
+
+`Python` `TensorFlow` `XGBoost` `React` `FastAPI`
 
 </td>
 </tr>
@@ -173,56 +162,44 @@ Combines **RAG + AST parsing + call graph analysis + Claude AI** to answer natur
 
 <div align="center">
 <a href="https://github.com/MayurS23/rag-ai-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurS23&repo=rag-ai-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurS23&repo=rag-ai-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12"/>
 </a>
 </div>
 
-<br/>
+> 🗂️ Production knowledge assistant — cited answers from any doc
 
-> 🗂️ **Production knowledge assistant — cited answers from any doc**
-
-Ingests PDFs, Markdown, code & URLs → FAISS vector store → **MMR reranking** → cited answers powered by **Claude / GPT-4o / Ollama**.
-
-**⚡ Highlights:**
 - ⚡ FAISS search: **<1ms** at 10k vectors
-- 🔄 Swap LLM or vector store via **1 env variable**
+- 🔄 Swap LLM/vector store via **1 env variable**
 - 📡 SSE streaming + Redis caching + Rate limiting
-- 🐳 Full Docker stack
+
+`Python` `FAISS` `FastAPI` `Claude/GPT-4o` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 <a href="https://github.com/MayurS23/pathfinding-visualizer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurS23&repo=pathfinding-visualizer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurS23&repo=pathfinding-visualizer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12"/>
 </a>
 </div>
 
-<br/>
+> 🗺️ C++ → WebAssembly · Native speed · 🟢 [Live Demo](https://mayurs23.github.io/pathfinding-visualizer/)
 
-> 🗺️ **C++ → WebAssembly · Algorithm visualization at native speed**
-
-**BFS, DFS, Dijkstra & A\*** written in C++17 and compiled to WASM via Emscripten. Zero-copy JS↔WASM bridge via HEAP32 typed arrays.
-
-**⚡ Highlights:**
 - 🧮 A\* visits **50% fewer nodes** than BFS
-- 🎮 Maze gen · Compare mode · Weighted nodes
-- 🚀 **Live:** [Try it →](https://mayurs23.github.io/pathfinding-visualizer/)
-- ⚙️ CI/CD: auto-compile WASM + deploy on every push
+- ⚡ Zero-copy JS↔WASM bridge via HEAP32
+- ⚙️ CI/CD: auto-compile WASM + deploy on push
+
+`C++17` `WebAssembly` `Emscripten` `JavaScript`
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
 
-### ━━━━━━━━━━━━━━━━━━━━━━━━ ⚙️ Distributed Systems ━━━━━━━━━━━━━━━━━━━━━━━━
+### ⚙️ Distributed Systems
 
 </div>
-
-<br/>
 
 <table>
 <tr>
@@ -230,42 +207,35 @@ Ingests PDFs, Markdown, code & URLs → FAISS vector store → **MMR reranking**
 
 <div align="center">
 <a href="https://github.com/MayurS23/distributed-search-engine">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurS23&repo=distributed-search-engine&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurS23&repo=distributed-search-engine&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12"/>
 </a>
 </div>
 
-<br/>
+> 🔍 Google-inspired search engine from scratch
 
-> 🔍 **Google-inspired search engine built from scratch in Python**
-
-Async BFS crawler → **4-shard inverted index** (Redis) → **BM25 ranking** (same as Elasticsearch) → FastAPI REST API.
-
-**⚡ Highlights:**
-- 🔎 Positional index for **exact phrase queries**
-- 🤖 `robots.txt` compliant async crawler
+- 📦 **4-shard inverted index** in Redis
+- 🏆 **BM25 ranking** — same as Elasticsearch
+- 🔎 Positional index for exact phrase queries
 - ✅ **92 tests** (unit + integration) — all passing
-- 📦 Full Docker Compose stack
+
+`Python` `Redis` `PostgreSQL` `FastAPI` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 <a href="https://github.com/MayurS23/distributed-rate-limiter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurS23&repo=distributed-rate-limiter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MayurS23&repo=distributed-rate-limiter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12"/>
 </a>
 </div>
 
-<br/>
+> ⚡ Production API rate limiting — zero race conditions
 
-> ⚡ **Production API rate limiting — zero race conditions guaranteed**
-
-**Token Bucket algorithm** with atomic Lua scripting in Redis — race-condition-free at any concurrency. Per-route & per-role limits.
-
-**⚡ Highlights:**
-- ⚛️ Atomic Lua scripts — **zero race conditions** ever
+- ⚛️ Atomic **Lua scripts** in Redis — no race conditions
 - 🔧 Per-route and per-role configurable limits
 - 📦 Horizontal scalability via Redis cluster
-- 🐳 Production-ready Docker deployment
+
+`Python` `Redis` `Lua` `FastAPI` `Docker`
 
 </td>
 </tr>
@@ -273,15 +243,12 @@ Async BFS crawler → **4-shard inverted index** (Redis) → **BM25 ranking** (s
 
 ---
 
-<!-- STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<br/>
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MayurS23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true&border_radius=12" height="180"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayurS23&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&border_radius=12" height="180"/>
 
 <br/><br/>
@@ -290,14 +257,9 @@ Async BFS crawler → **4-shard inverted index** (Redis) → **BM25 ranking** (s
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ACTIVITY GRAPH -->
-<h2 align="center">📈 Contribution Graph</h2>
-
-<br/>
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -305,14 +267,9 @@ Async BFS crawler → **4-shard inverted index** (Redis) → **BM25 ranking** (s
 
 </div>
 
-<br/>
-
 ---
 
-<!-- TROPHIES -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<br/>
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -320,36 +277,27 @@ Async BFS crawler → **4-shard inverted index** (Redis) → **BM25 ranking** (s
 
 </div>
 
-<br/>
-
 ---
 
-<!-- QUOTE -->
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%"/>
 
-</div>
-
-<br/>
-
----
-
-<div align="center">
+<br/><br/>
 
 ### 🤝 Let's Connect & Build Something Together
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayur--s)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayuur203@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayurS23)
-[![Live Demo](https://img.shields.io/badge/🚀%20Portfolio-00C896?style=for-the-badge)](https://mayurs23.github.io/pathfinding-visualizer/)
+[![Live Demo](https://img.shields.io/badge/🚀_Portfolio-00C896?style=for-the-badge)](https://mayurs23.github.io/pathfinding-visualizer/)
 
 <br/>
 
-⭐ **Enjoyed my work? Star some repos — it means a lot!** ⭐
+**⭐ Enjoyed my work? Star some repos — it helps a lot! ⭐**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:6366F1,100:8B5CF6&height=130&section=footer&animation=twinkling&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=twinkling"/>
 
 </div>
