@@ -1,3 +1,65 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Mayur%20S&fontSize=80&fontColor=58A6FF&animation=fadeIn&fontAlignY=45&stroke=58A6FF&strokeWidth=2&desc=Software%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Systems%20Builder&descSize=18&descColor=8b949e&descAlignY=68"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=🔧+Building+Distributed+Systems+from+Scratch;🤖+RAG+%7C+LLMs+%7C+Vector+Search+%7C+Claude+AI;⚡+C%2B%2B+compiled+to+WebAssembly+%7C+Near-Native+Speed;🧪+Every+project+ships+with+50–142+tests.+Always.;🚀+2+Live+Deployments+%7C+6+Production+Repos;📍+Mysuru%2C+Karnataka%2C+India+🇮🇳" alt="Typing SVG"/>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/mayur--s)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:mayuur203@gmail.com)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-00C896?style=for-the-badge&logoColor=white)](https://mayurs23.github.io/pathfinding-visualizer/)
+[![Profile Views](https://komarev.com/ghpvc/?username=MayurS23&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/MayurS23)
+
+<br/>
+
+</div>
+
+---
+
+<!-- ABOUT ME -->
+<h2 align="center">🧑‍💻 About Me</h2>
+
+<br/>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+
+```python
+class Mayur:
+
+    name       = "Mayur S"
+    title      = "Software Developer"
+    location   = "Mysuru, Karnataka 🇮🇳"
+
+    interests  = [
+        "⚙️  Distributed Systems",
+        "🤖  AI / ML & RAG Pipelines",
+        "🧪  Software Testing",
+        "🏗️  System Design",
+    ]
+
+    stack = {
+        "languages" : ["Python","C++","JS","TS"],
+        "backend"   : ["FastAPI","Redis","PostgreSQL"],
+        "ai_ml"     : ["Claude AI","TensorFlow","FAISS",
+                       "ChromaDB","XGBoost"],
+        "infra"     : ["Docker","WebAssembly","GitHub Actions"],
+        "testing"   : ["pytest — 50 to 142 per project ✅"],
+    }
+
+    def current_mission(self):
+        return "Build things that scale, break gracefully,"
+               " and ship with confidence 🚀"
+
+    def fun_fact(self):
+        return "Built a search engine + an AI IDS from"
+               " scratch — because why not? 🤷"
+```
+
 <br clear="right"/>
 
 ---
