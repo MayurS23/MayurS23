@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,&theme=dark&perline=10"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=fastapi,redis,postgres,docker,githubactions,linux&theme=dark&perline=10"/>
 <br/>
